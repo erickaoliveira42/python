@@ -35,4 +35,4 @@ elif x < 0 and y < 0:
 elif x > 0 and y < 0:
     print("O ponto está no quarto quadrante.")
 else:
-    print("O ponto está sobre um eixo ou na origem.")
+    print("O ponto está sobre um eixo ou na origem")
